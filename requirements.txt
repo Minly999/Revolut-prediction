@@ -1,0 +1,7 @@
+pandas
+playwright
+nltk
+joblib
+scikit-learn
+matplotlib
+wordcloud
